@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Guilherme Bizerra 👋</h1>
 
-<h3 align="center">Desenvolvedor Web | UI/UX | Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Desenvolvedor Web | Designer UI/UX</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76B1C&center=true&vCenter=true&width=600&lines=Front-end+com+React+%26+TypeScript;Back-end+com+Node.js+%2F+Express+%2F+Prisma;Design+de+interfaces+focado+em+UX;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -30,10 +30,10 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no IFSP Caraguatatub
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,figma,mysql,tailwind,bootstrap,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,mysql,figma,tailwind,bootstrap,git" alt="Skills" />
 </p>
 
 **Metodologias:** Scrum · Kanban · Lean &nbsp;|&nbsp; **Ferramentas:** Trello · Canva · Excel · PowerPoint
